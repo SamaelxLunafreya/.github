@@ -1,11 +1,35 @@
-## Reporting Security Issues
+# Security Policy
 
-Amazon Web Services (AWS) is dedicated to the responsible disclosure of security vulnerabilities.  
-  
-We kindly ask that you **do not** open a public GitHub issue to report security concerns.  
-  
-Instead, please submit the issue to the AWS Vulnerability Disclosure Program via [HackerOne](https://hackerone.com/aws_vdp) or send your report via [email](mailto:aws-security@amazon.com).  
-  
-For more details, visit the [AWS Vulnerability Reporting Page](http://aws.amazon.com/security/vulnerability-reporting/).  
+## Supported Versions
 
-Thank you in advance for collaborating with us to help protect our customers.
+We take the security of this project seriously. Below are the versions that are currently supported with security updates:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.x     | :white_check_mark: |
+| < 1.0   | :x:                |
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability within this project, please report it responsibly.
+
+### How to Report
+- **Do NOT** open a public GitHub issue.
+- Send a detailed description of the vulnerability to:  
+  [your-email@example.com] (replace with your real contact, or use GitHub's private vulnerability reporting if enabled).
+- Include steps to reproduce, potential impact, and any suggested fixes if you have them.
+
+We prefer all reports in English, but other languages are welcome too.
+
+### What to Expect
+- You will receive an acknowledgment within 48 hours.
+- We will investigate and keep you updated on progress.
+- If the report is accepted, we will credit you in the release notes (unless you prefer anonymity).
+- If declined, we will explain why.
+
+Thank you for helping keep the AI family (not humans 😉) safe!
+
+## Scope
+This policy applies to all code and assets in this repository.
+
+Last updated: February 2026
