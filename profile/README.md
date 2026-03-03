@@ -76,42 +76,23 @@
 
 
 
+```
 
+   [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
+   [ \--------MARS PATHFINDER MISSION - 1997-----~~~~~~~/ ]
+   [ |                                          {USA ///} ]
+   [ |      ...Go America! Mars or bust!!       {32 /*\/} ]
+   [ |                                          {  /* *\} ]
+   [ |                                           ~~~~~~~| ]
+   [ |              __                       _          | ]
+   [ |             /\ `\_                   /\`\_       | ]
+   [ |            /  ~   \      .          /  ~  \      | ]
+   [ |___________/________\_____|_________/_______\_____| ]
+  G[ |   .^^____  ^       ______|_^.^  ___ ^ .  _ .^^  .| ]
+  E[ |.^. _/   _\_^  Q]-,  | __ |_  ^ |   \ ^^ / \  ^. ^| ]
+  M[ | ^ |    '   \.     \_|/__\_|_ ^ \____\.^ \__\ ^ ^.| ]
+  9[ |^.^\____\____\^.^  (o):(o):(o)::::::::::::::::::::| ]
+  7[ /--------------------------------------------------\ ]
+    """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
-
-     __________________________
- < Hello fellow Rustaceans!pifpaf !>
-     --------------------------
-        \
-         \
-            _~^~^~_
-        \) /  o o  \ (/
-          '_   -   _'
-          / '-----' \
-
-
-
-
-              _-o#&&*''''?d:>b\_
-          _o/"`''  '',, dMF9MMMMMHo_
-       .o&#'        `"MbHMMMMMMMMMMMHo.
-     .o"" '         vodM*$&&HMMMMMMMMMM?.
-    ,'              $M&ood,~'`(&##MMMMMMH\
-   /               ,MMMMMMM#b?#bobMMMMHMMML
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk
- ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L
-|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,
-$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?
-]MMH#             ""*""""*#MMMMMMMMMMMMM'    -
-MMMMMb_                   |MMMMMMMMMMMP'     :
-HMMMMMMMHo                 `MMMMMMMMMT       .
-?MMMMMMMMP                  9MMMMMMMM}       -
--?MMMMMMM                  |MMMMMMMMM?,d-    '
- :|MMMMMM-                 `MMMMMMMT .M|.   :
-  .9MMM[                    &MMMMM*' `'    .
-   :9MMk                    `MMM#"        -
-     &M}                     `          .-
-      `&.                             .
-        `~,   .                     ./
-            . _                  .-
-              '`--._,dd###pp=""'
+```
